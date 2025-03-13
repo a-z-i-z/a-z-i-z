@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I am a DevOps Engineer passionate about optimizing
 - 🌱 Actively exploring advanced Cloud architecture setups and serverless architectures to optimize our cloud environments.
 - 👯 Open to collaborating on exciting open-source DevOps initiatives that drive innovation and efficiency.
 - 💬 Feel free to reach out to discuss anything related to DevOps practices, Cloud technologies or Automation strategies.
-- 📫 How to reach me: [Email](mailto:azizsuterwala.contact@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aziz-moiz-685a62186/) | [Upwork](https://www.upwork.com/freelancers/~01b01d24867c77841d)
+- 📫 How to reach me: [Email](mailto:azizsuterwala.contact@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aziz-moiz-685a62186/) | [Upwork](https://www.upwork.com/services/consultation/development-it-aziz-1700392899725594624)
 
 ## 🛠️ Skills
 
