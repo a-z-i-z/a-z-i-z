@@ -61,6 +61,7 @@ Welcome to my GitHub profile! I am a DevOps Engineer passionate about optimizing
 
 ## 🏆 Certifications
 - AWS Certified DevOps Engineer - Professional
+- AWS Certified Solution Architect - Associate
 - Certified Kubernetes Administrator (CKA)
 - HashiCorp Certified: Terraform Associate
 - Certified Jenkins Engineer
